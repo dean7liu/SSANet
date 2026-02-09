@@ -1,6 +1,7 @@
 import torch.nn.functional as F
 import torch
 
+
 def model_loss_train(disp_ests, disp_gts, img_masks, err_mask_ds):
     weights = [1.0, 0.3, 0.5, 0.3]
     all_losses = []
