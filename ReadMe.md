@@ -1,2 +1,2 @@
 
-# Further updates and explanations will be added to the code repository.
+# The explanations will be added to the code repository upon acceptance of the manuscript.
